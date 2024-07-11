@@ -1,7 +1,7 @@
 # subscription-demo
 ## Description
 
-This project user subscriptions using SQLite for data storage.  This project will include setting up a basic command-line interface (CLI) for subscription management, handling user input, and managing subscriptions in the SQLite database.
+This project user subscription uses SQLite for data storage.  This project will include setting up a basic command-line interface (CLI) for subscription management, handling user input, and managing subscriptions in the SQLite database.
 
 ## Project Structure and Components
 1. Database Setup:
@@ -27,9 +27,9 @@ This project user subscriptions using SQLite for data storage.  This project wil
 
 ### Creating a Virtual Environment
 ```bash
-python3 -m venv myvenv
+python -m venv myvenv
 ```
-Using a virtual environment (myvenv) is recommended to keep your project dependencies isolated. Follow these steps to create and activate a myvenv for this project:
+A virtual environment (myvenv) is recommended to isolate your project dependencies. Follow these steps to create and activate a myvenv for this project:
 
 On Windows
 Open a command prompt and navigate to your project directory:
